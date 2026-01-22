@@ -6,3 +6,5 @@ print("hello India")
 
 
 hideturtle()
+import os
+print(os.getcwd())
